@@ -280,7 +280,7 @@ Public Health Impact:
 
 
 ### Phase 2 (Years 2-4): Clinical Applications
-```
+
 - Test Predictions 7-9 (clinical geometric signatures)
 - Develop and validate CDG Diagnostic Tool
 - Begin geometry-informed therapy trials
