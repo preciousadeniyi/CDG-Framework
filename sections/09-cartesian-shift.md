@@ -206,7 +206,7 @@ Level 4: Clinical Geometry
 ## 9.7 Philosophical Implications
 
 ### Ontological Status of Consciousness
-```
+
 CDG Position: Mathematical Realism
    Consciousness is a real geometric property of certain systems
    It's not illusory (eliminativism) or non-physical (dualism)
