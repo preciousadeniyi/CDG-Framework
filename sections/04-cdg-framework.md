@@ -106,7 +106,7 @@ Executive Control Network: Dynamic metric adjustment
 Salience Network: Curvature detection and attention allocation
 
 
-### 3.1.3 Computational Tractability and Implementation
+### 4.1.3 Computational Tractability and Implementation
 
 **A. Discrete Approximation Algorithms:**
 
