@@ -1,6 +1,6 @@
 # 4. The CDG Framework: A Three-Tiered Geometric Theory of Mind
 
-## Tier 1: Foundational Principles
+## 4.1: Tier 1: Foundational Principles
 
 **Principle 1: Curved Meaning Space (∇ₓY ≠ 0)**
 - **Mathematical Formulation:** The covariant derivative of a conceptual vector field Y along another field X is non-vanishing: ∇ₓY ≠ 0. This implies non-zero Riemann curvature Rᵏₗᵢⱼ ≠ 0.
@@ -10,7 +10,7 @@
 - **Mathematical Formulation:** Consciousness emerges when the integrated absolute scalar curvature over a cognitive volume V exceeds a critical threshold: ∫ᴠ |R| dV > R_c, where R is the scalar curvature density.
 - **Cognitive Interpretation:** Subjective experience is a phase transition arising from sufficient integrated conceptual complexity, not mere information processing. The absolute value ensures both positive and negative curvature regions contribute to conscious richness.
 
-## Tier 2: Structural Principles
+## 4.2: Tier 2: Structural Principles
 
 **Principle 3: Cultural Torsion (Tᵏᵢⱼ ≠ 0)**
 - **Mathematical Formulation:** The torsion tensor Tᵏᵢⱼ = Γᵏᵢⱼ - Γᵏⱼᵢ is non-zero, breaking the symmetry of the connection.
@@ -20,7 +20,7 @@
 - **Mathematical Formulation:** Meta-cognition is formalized by a smooth map ℱ: ℳ → ℳ with non-degenerate fixed points: ℱ(m) = m with det(I - dℱₘ) ≠ 0.
 - **Cognitive Interpretation:** Self-awareness is the capacity of the cognitive system to map its state onto itself, creating stable points of self-reference.
 
-## Tier 3: Dynamic Principles
+## 4.2: Tier 3: Dynamic Principles
 
 **Principle 5: Embodied Ethics (∂gᵢⱼ/∂t = -2αRᵢⱼ + ∇ᵢ∇ⱼφ + β∇ᵢΨ∇ⱼΨ†)**
 - **Mathematical Formulation:** The semantic metric evolves according to a modified Ricci flow with a semantic potential φ and cognitive field Ψ: ∂gᵢⱼ/∂t = -2αRᵢⱼ + ∇ᵢ∇ⱼφ + β∇ᵢΨ∇ⱼΨ†, where α sets the geometric relaxation timescale.
@@ -30,10 +30,10 @@
 - **Mathematical Formulation:** Therapeutic change is the process of minimizing curvature gradients: lim_{t→∞} ‖∇R‖ = 0, where ∇R is the gradient of scalar curvature.
 - **Cognitive Interpretation:** Psychological distress represents pathological curvature gradients or "knots" in conceptual space. Healing is the geometric process of restoring smooth cognitive flow.
 
-## 4.1 Implementation and Scalability
+## 4.3: Implementation and Scalability
 
 
-### 4.1.1 Biological Plausibility and Neural Implementation
+### 4.3.1 Biological Plausibility and Neural Implementation
 
 The brain implements geometric operations through approximate, distributed biological mechanisms that emerge from neural dynamics:
 
@@ -80,7 +80,7 @@ Efficient Coding: The brain uses compressed geometric representations
 through sparse coding and dimensionality reduction mechanisms
 
 
-### 4.1.2 Multi-Scale Implementation Architecture
+### 4.3.2 Multi-Scale Implementation Architecture
 
 **A. Microcircuit Level (Laminar Specific Processing):**
 
@@ -106,7 +106,7 @@ Executive Control Network: Dynamic metric adjustment
 Salience Network: Curvature detection and attention allocation
 
 
-### 4.1.3 Computational Tractability and Implementation
+### 4.3.3 Computational Tractability and Implementation
 
 **A. Discrete Approximation Algorithms:**
 
@@ -138,7 +138,7 @@ GPU Acceleration: Massively parallel curvature computation
 Quantum-Inspired Algorithms: Use quantum annealing for finding minimal geodesics
 
 
-### 4.1.4 Empirical Validation of Neural Implementation
+### 4.3.4 Empirical Validation of Neural Implementation
 
 **Testable Predictions for Biological Implementation:**
 
@@ -166,7 +166,7 @@ Multielectrode Arrays: Track neural trajectories during cognitive tasks
 Diffusion MRI: Relate white matter connectivity to connection coefficients
 
 
-### 4.1.5 Scaling Laws and Complexity Management
+### 4.4: Scaling Laws and Complexity Management
 
 **A. Computational Complexity Analysis:**
 
