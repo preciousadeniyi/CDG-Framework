@@ -1,1 +1,9 @@
+# 2. Introduction
 
+
+
+"The 'hard problem' of consciousness (Chalmers, 1995) highlights the persistent explanatory gap between physical processes and subjective experience. Influential frameworks like Integrated Information Theory (Tononi et al., 2016), Global Workspace Theory (Baars, 1997), and others propose mechanisms for awareness, and neuroscience has identified key neural correlates (Koch et al., 2016). Yet, a fundamental shortcoming remains: they lack a formal mathematical language for the dynamics of meaning and qualia. Existing geometric approaches (Gärdenfors, 2004; Amari, 2016) offer structural representations but fail to capture the dynamic curvature and temporal evolution of lived experience.
+
+This paper introduces the Curved Dynamic Geometry of Meaning (CDG), a formal mathematical framework that models cognitive processes through differential geometry. We posit that conscious experience emerges from the geometric properties of a meaning-space manifold, where curvature, torsion, and connection operations correspond directly to phenomenological qualities—for instance, where affective valence might be modeled by manifold curvature. CDG is defined by six core principles, organized into foundational, structural, and dynamic tiers, and generates precise, testable predictions across multiple domains.
+
+CDG accomplishes a Cartesian shift—a conceptual reframing analogous to Descartes' introduction of coordinate geometry, which revealed seemingly primitive properties like area as emergent relations (e.g., length × width). Similarly, CDG provides the mathematical coordinate system in which subjective experience is no longer a mysterious add-on but an emergent property of the dynamics of a curved semantic manifold. This transforms the hard problem from an impenetrable mystery into a tractable set of geometric relationships."
