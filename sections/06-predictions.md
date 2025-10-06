@@ -187,7 +187,7 @@ Efficiency Gains:
 Hardware Requirements:
   - Memory: O(n²) for full metric, O(n) for compressed
   - Computation: O(n³) exact, O(n log n) approximate curvature
-```
+
 
 ## 6.5 Clinical Applications
 
