@@ -115,7 +115,7 @@ Measures: RT, accuracy, N400 amplitude
 
 
 **Analogical Reasoning Task:**
-```
+
 Problems: 4-term analogies (A:B :: C:?))
 Difficulty levels:
   - Easy: apple:fruit :: carrot:vegetable
@@ -264,12 +264,13 @@ Treatment Response Criteria:
 ### A.5.1 CDG Neural Network Architectures
 
 **Geometric Attention Mechanism:**
-```
+
 Input: Query Q, Key K, Value V in curved space
 Distance: d(q,k) = geodesic distance in metric space
 Attention: A = softmax(-d(Q,K)/τ) · V
 
 Implementation:
+```python
   class GeometricAttention(nn.Module):
       def __init__(self, dim, curvature_lr=0.01):
           self.metric = LearnableMetric(dim)
@@ -279,8 +280,8 @@ Implementation:
           d = geodesic_distance(Q, K, self.metric, self.curvature)
           weights = torch.softmax(-d / self.tau, dim=-1)
           return torch.matmul(weights, V)
-```
 
+```
 **CDG Transformer Architecture:**
 
 Components:
@@ -297,7 +298,7 @@ Optimization:
 ### A.5.2 Consciousness Benchmark Suite
 
 **Behavioral Tests:**
-```
+
 1. Self-Monitoring Test:
    - Error detection accuracy
    - Confidence calibration
