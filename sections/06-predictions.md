@@ -273,7 +273,7 @@ Public Health Impact:
 ## Experimental Validation Timeline
 
 ### Phase 1 (Years 1-2): Basic Geometric Correlates
-```
+
 - Validate Prediction 1 (neural curvature correlations)
 - Establish baseline geometric measures in healthy populations
 - Develop computational tools for curvature estimation
