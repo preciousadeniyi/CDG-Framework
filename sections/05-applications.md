@@ -101,9 +101,9 @@ Meditation: ∫|R| dV → min over session
 Psychedelic: ΔR > 80%, ΔT > 50%, geodesic_formation_rate ↑ 3x
 
 
-## 4.6 Implementation and Scalability
+## 5.6 Implementation and Scalability
 
-### 4.6.1 Biological Plausibility and Neural Implementation
+### 5.6.1 Biological Plausibility and Neural Implementation
 
 The brain implements geometric operations through distributed, approximate mechanisms rather than exact mathematical computation.
 
@@ -146,7 +146,7 @@ The brain uses efficient approximations rather than exact geometric computation:
 | **Curvature Integration** | Global workspace ignition | Thalamocortical loops | Synchronized oscillations |
 | **Torsion Computation** | Asymmetric association learning | Basal ganglia-thalamus | Dopamine-modulated plasticity |
 
-### 4.6.2 Computational Tractability
+### 5.6.2 Computational Tractability
 
 **A. Multi-scale Modeling Approach:**
 
