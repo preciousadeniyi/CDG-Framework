@@ -1,6 +1,4 @@
-## **Toy Simulations** 
 
-```markdown
 # 13. Toy Simulations and Computational Examples
 
 ## 13.1 Overview
@@ -194,4 +192,4 @@ These simulations demonstrate that CDG principles are:
 - **AI-relevant** for conscious system development
 
 The code serves as both proof-of-concept and foundation for more sophisticated implementations across neuroscience, psychology, and artificial intelligence.
-```
+
