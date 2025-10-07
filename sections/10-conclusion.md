@@ -184,7 +184,7 @@ Anticipated Advances:
 
 
 ### Long-Term Vision (7+ years)
-```
+
 Transformative Potential:
    1. Complete geometric theory of mind
    2. Artificial systems with human-like consciousness
