@@ -350,7 +350,7 @@ Scope:
 ### 14.9.2 Medium-Term Initiatives (3-5 Years)
 
 **Project D: Geometric Intervention Trials**
-```
+
 Focus: Clinical translation
 Trials:
    - Geometry-informed CBT vs. standard CBT (N=1000)
