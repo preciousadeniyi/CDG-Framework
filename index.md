@@ -121,7 +121,7 @@ python run_all.py
 
 ### Beginner Quick Start
 If you're completely new:
-1. Follow the [Beginner Setup Guide in README.md](../README.md#🆕-beginner-setup-guide) to clone and install.
+1. Follow the [Beginner Setup Guide in README.md](./README.md#🆕-beginner-setup-guide) to clone and install.
 2. Run `python minimal_cdg.py`—expect simple outputs like trajectory paths or graphs demonstrating basic concepts.
 3. If issues arise, check troubleshooting there.
 
