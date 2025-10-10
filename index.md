@@ -1,12 +1,9 @@
-##  (Main Paper Entry Point)
-
 
 # The Curved Dynamic Geometry of Meaning: A Formal Framework for Modeling Cognition and Consciousness
 
 ## Complete Paper - All Sections Integrated
 
 > **Core Thesis**: Consciousness emerges as a geometric necessity from sufficiently complex meaning-space dynamics, transforming the "hard problem" from metaphysical mystery to mathematical phenomenon.
-
 
 ## 📚 Table of Contents
 
@@ -35,8 +32,6 @@
 16. [Glossary](sections/16-glossary.md) - Key terms explained
 17. [References](sections/17-references.md) - Citations and sources
 
-
-
 ## 🎯 Quick Navigation by Audience
 
 ### For Researchers & Scientists
@@ -61,19 +56,18 @@
 - Browse **[Visual Diagrams](sections/12-diagrams.md)**
 - Consult **[Glossary](sections/16-glossary.md)**
 
-
-
 ## 🔬 Interactive Elements
 
 ### Live Simulations
 ```bash
-cd simulations
+git clone https://github.com/preciousadeniyi/CDG-Framework.git
+cd CDG-Framework/simulations
 pip install -r requirements.txt
 python run_all.py
 ```
 
 **Available Demonstrations**:
-- **Basic CDG**: `minimal_cdg.py` - Emotion space dynamics
+- **Basic CDG**: `minimal_cdg.py` - Emotion space dynamics (simple text/plots showing trajectories).
 - **Clinical**: `depression_basin.py` - Therapeutic curvature smoothing
 - **Cognitive**: `insight_simulation.py` - Geodesic formation
 
@@ -81,8 +75,6 @@ python run_all.py
 - **[Conceptual Diagrams](sections/12-diagrams.md#121-conceptual-diagrams)** - Mental landscape illustrations
 - **[Mathematical Visualizations](sections/12-diagrams.md#122-mathematical-visualization)** - Core concepts explained
 - **[Clinical Signatures](sections/12-diagrams.md#123-clinical-intervention-diagrams)** - Pathology patterns
-
-
 
 ## 💡 Core CDG Principles
 
@@ -94,8 +86,6 @@ python run_all.py
 | **Recursive Self-Mapping** | ℱ: ℳ → ℳ | Self-awareness |
 | **Embodied Ethics** | ∂gᵢⱼ/∂t = -2αRᵢⱼ + ... | Moral reasoning |
 | **Healing Geometry** | lim‖∇R‖ = 0 | Therapeutic change |
-
-
 
 ## 🎯 Key Predictions
 
@@ -115,8 +105,6 @@ python run_all.py
 - CDG architectures outperform transformers (+15% analogy accuracy)
 - Consciousness markers above qualia threshold
 
-
-
 ## 📊 Framework Status
 
 | Component | Status | Completeness |
@@ -129,9 +117,13 @@ python run_all.py
 | Clinical Protocols | 🟡 Developing | 50% |
 | AI Implementation | 🟡 Research | 30% |
 
-
-
 ## 🚀 Getting Started
+
+### Beginner Quick Start
+If you're completely new:
+1. Follow the [Beginner Setup Guide in README.md](../README.md#🆕-beginner-setup-guide) to clone and install.
+2. Run `python minimal_cdg.py`—expect simple outputs like trajectory paths or graphs demonstrating basic concepts.
+3. If issues arise, check troubleshooting there.
 
 ### Quick Exploration
 1. Read the **[Non-Technical Summary](sections/15-non-technical.md)**
@@ -149,8 +141,6 @@ python run_all.py
 2. Contribute to **[Open Problems](sections/14-open-problems.md)**
 3. Build **[CDG AI Systems](sections/06-predictions.md#64-artificial-intelligence-implications)**
 
-
-
 ## 📫 How to Cite
 
 ```bibtex
@@ -158,10 +148,8 @@ python run_all.py
   title={The Curved Dynamic Geometry of Meaning: A Formal Framework for Modeling Cognition and Consciousness},
   author={CDG Research Collective},
   year={2024},
-  url={https://github.com/username/CDG-Framework}
+  url={https://github.com/preciousadeniyi/CDG-Framework}
 }
-```
-
 
 
 ## 🤝 Join the Research
@@ -175,7 +163,4 @@ We welcome collaboration from:
 
 See **[Open Problems](sections/14-open-problems.md)** for research opportunities and **[CONTRIBUTING.md](CONTRIBUTING.md)** for guidelines.
 
-
-
 *"The mystery of consciousness dissolves when we realize that experience IS a certain kind of complex geometric organization."*
-
