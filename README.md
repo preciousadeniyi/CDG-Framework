@@ -162,7 +162,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 @article{cdg2024,
   title={The Curved Dynamic Geometry of Meaning: A Formal Framework for Modeling Cognition and Consciousness},
   author={CDG Research Collective},
-  year={2024},
+  year={2025},
   url={https://github.com/preciousadeniyi/CDG-Framework}
 }
 ```
