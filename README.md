@@ -1,5 +1,3 @@
-##  (Main Repository Overview)
-
 
 # Curved Dynamic Geometry of Meaning (CDG)
 
@@ -15,8 +13,8 @@ The CDG framework models cognitive processes as dynamics on a meaning-space mani
 
 ### For Researchers & Scientists
 ```bash
-# Run simulations
-cd simulations
+git clone https://github.com/preciousadeniyi/CDG-Framework.git
+cd CDG-Framework/simulations
 pip install -r requirements.txt
 python minimal_cdg.py
 ```
@@ -33,6 +31,56 @@ See [Clinical Applications](sections/05-applications.md#54-psychopathology-as-ge
 
 ### For Philosophers & General Readers
 Start with the [Non-Technical Summary](sections/15-non-technical.md) and [Visual Diagrams](sections/12-diagrams.md).
+
+## 🆕 Beginner Setup Guide
+
+If you're new to GitHub, Python, or running code like this, follow these steps to get everything working smoothly. This should take 10-15 minutes.
+
+### Prerequisites
+- **Python**: Version 3.10 or higher (download from https://www.python.org if needed).
+- **Git**: For cloning the repository (install from https://git-scm.com if you don't have it).
+- **Operating System**: Works on Windows, macOS, or Linux. If on Windows, use Command Prompt or PowerShell.
+- **Hardware**: Basic computer; no GPU required for simulations.
+- **Internet**: Needed initially for cloning and installing dependencies.
+
+### Step-by-Step Setup
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/preciousadeniyi/CDG-Framework.git
+   cd CDG-Framework
+   ```
+   (This downloads all files to your computer.)
+
+2. **Set Up a Virtual Environment** (Recommended to avoid conflicts):
+   ```bash
+   python -m venv cdg-env
+   ```
+   - On macOS/Linux: `source cdg-env/bin/activate`
+   - On Windows: `cdg-env\Scripts\activate`
+   (You'll see `(cdg-env)` in your terminal prompt.)
+
+3. **Install Dependencies**:
+   ```bash
+   cd simulations
+   pip install -r requirements.txt
+   ```
+   (This installs libraries like numpy, scipy, and matplotlib for simulations.)
+
+4. **Run a Simple Test**:
+   ```bash
+   python minimal_cdg.py
+   ```
+   - **What to Expect**: Console output showing a simulated thought trajectory (e.g., from 'sadness' to 'joy') with possible plots or metrics like curvature values. If plots appear, you'll see graphs; otherwise, text results.
+   - If successful, try `python run_all.py` to run all demos.
+
+### Common Troubleshooting
+- **Python not found**: Ensure Python is in your system's PATH (restart terminal after install).
+- **Dependency errors**: Try `pip install --upgrade pip` first, or check for Python version mismatches.
+- **No plots show**: Ensure matplotlib is installed; run in an interactive shell if needed.
+- **Permission issues**: On macOS/Linux, use `sudo` for pip if required (but virtualenv avoids this).
+- Stuck? Check the [Issues](https://github.com/preciousadeniyi/CDG-Framework/issues) tab or ask in discussions.
+
+Once set up, explore the simulations—they demonstrate concepts like emotion dynamics without needing deep math knowledge.
 
 ## 📚 Paper Structure
 
@@ -59,7 +107,7 @@ python depression_basin.py
 ```
 
 **Available Simulations**:
-- `minimal_cdg.py` - Basic emotion space dynamics
+- `minimal_cdg.py` - Basic emotion space dynamics (great for beginners to see simple outputs).
 - `depression_basin.py` - Therapeutic curvature smoothing  
 - `insight_simulation.py` - Geodesic formation during insight
 
@@ -115,7 +163,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
   title={The Curved Dynamic Geometry of Meaning: A Formal Framework for Modeling Cognition and Consciousness},
   author={CDG Research Collective},
   year={2024},
-  url={https://github.com/username/CDG-Framework}
+  url={https://github.com/preciousadeniyi/CDG-Framework}
 }
 ```
 
@@ -130,6 +178,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 This work is licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
----
+
 
 > **The Cartesian Shift**: Just as Descartes revealed area as length × width, CDG reveals consciousness as geometric necessity.
+
+
