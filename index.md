@@ -150,7 +150,7 @@ If you're completely new:
   year={2024},
   url={https://github.com/preciousadeniyi/CDG-Framework}
 }
-
+```
 
 ## 🤝 Join the Research
 
