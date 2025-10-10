@@ -25,9 +25,9 @@ def test_basic_functionality():
     """Test basic CDG functionality"""
     try:
         # Test basic imports from our framework
-        from simulations.basic_emotion_space import EmotionSpace
-        from simulations.simple_curvature_demo import CurvatureDemo
-        from simulations.insight_demo import InsightDemo
+        from minimal_cdg import MinimalCDG
+        from depression_basin import DepressionSimulation
+        from insight_simulation import InsightSimulation
         
         print("✅ CDG modules imported successfully")
         return True
@@ -61,8 +61,8 @@ if __name__ == "__main__":
     if all(tests):
         print("🎉 ALL TESTS PASSED! Your CDG framework is ready.")
         print("\nNext steps:")
-        print("1. Run: python simulations/basic_emotion_space.py")
-        print("2. Then: python simulations/run_verified.py")
+        print("1. Run: python minimal_cdg.py")
+        print("2. Then: python run_all.py")
     else:
         print("❌ Some tests failed. Please check the errors above.")
         print("\nTroubleshooting:")
