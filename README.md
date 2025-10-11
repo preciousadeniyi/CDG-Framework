@@ -159,7 +159,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## 📫 Citation
 
 ```bibtex
-@article{cdg2024,
+@article{cdg2025,
   title={The Curved Dynamic Geometry of Meaning: A Formal Framework for Modeling Cognition and Consciousness},
   author={CDG Research Collective},
   year={2025},
